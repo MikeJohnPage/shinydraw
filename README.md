@@ -1,2 +1,2 @@
 # shinydraw
-Prototype Shiny apps in Excalidraw
+This repository contains the assets to create the Shiny library in Excalidraw.
