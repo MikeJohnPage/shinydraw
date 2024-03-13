@@ -5,4 +5,4 @@ Currently, this project is a work in progress. Once a first version is ready,
 a submission will be made to Excalidraw to have it available in their public
 library.
 
-<img src='images/example-dashboard.png' align="centre"/>
+<img src='images/prototype.png' align="centre"/>
